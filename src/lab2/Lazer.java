@@ -1,5 +1,6 @@
 package lab2;
 
+//classe que controla o lazer que o estudante deve ter incluindo as atividades que deve praticar
 public class Lazer {
 	private String atividade;
 	private int tempoLimite;

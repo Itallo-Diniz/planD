@@ -1,5 +1,6 @@
 package lab2;
 
+//Classe Estudo que contém a meteria e os minutos estudados
 public class Estudo {
 	private String materia;
 	private int minutos;
